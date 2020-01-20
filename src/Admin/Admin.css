@@ -1,0 +1,31 @@
+.adminPage{
+    color: white;
+    padding-left: 100px;
+}
+
+.adminPage h1{
+    color: #BC9321;
+}
+
+.adminPage h3{
+    color: red;
+}
+
+.adminPage table th, .adminPage table td {
+    text-align: center;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    padding: 10px;
+}
+
+.adminPage table{
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.adminServicesList{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    text-align: left;
+}

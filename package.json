@@ -1,0 +1,37 @@
+{
+  "name": "my-app",
+  "version": "1.1",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "js-sha256": "^0.9.0",
+    "lowdb": "^1.0.0",
+    "lowdb-session-store": "^1.1.0",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "2.0.5",
+    "rotating-file-stream": "^1.4.6",
+    "simple-node-logger": "^18.12.23",
+    "video-react": "*"
+  },
+  "homepage": "http://arbenitkamberi.github.io/AlCaponeProject",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

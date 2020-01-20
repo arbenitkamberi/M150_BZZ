@@ -1,0 +1,78 @@
+[
+    null,
+    {
+        "id": 0,
+        "titel": "Waschen, schneiden, föhnen",
+        "preis": 49,
+        "dauer": 45
+    },
+    {
+        "id": 1,
+        "titel": "Haarschnitt",
+        "preis": 39,
+        "dauer": 30
+    },
+    {
+        "id": 2,
+        "titel": "Haarschnitt mit Schere",
+        "preis": 44,
+        "dauer": 45
+    },
+    {
+        "id": 3,
+        "titel": "Waschen & föhnen",
+        "preis": 21,
+        "dauer": 15
+    },
+    null,
+    {
+        "id": 4,
+        "titel": "Nassrasur traditionell",
+        "preis": 23,
+        "dauer": 20
+    },
+    {
+        "id": 5,
+        "titel": "Konturen definieren",
+        "preis": 15,
+        "dauer": 10
+    },
+    {
+        "id": 6,
+        "titel": "Schnurrbart trimmen",
+        "preis": 9,
+        "dauer": 5
+    },
+    {
+        "id": 7,
+        "titel": "Bart & pflegen",
+        "preis": 33,
+        "dauer": 30
+    },
+    null,
+    {
+        "id": 8,
+        "titel": "Haar & Bart",
+        "preis": 59,
+        "dauer": 45
+    },
+    null,
+    {
+        "id": 9,
+        "titel": "Augenbrauen (Fadentechnik)",
+        "preis": 11,
+        "dauer": 5
+    },
+    {
+        "id": 10,
+        "titel": "Kopfmassage",
+        "preis": 7,
+        "dauer": 5
+    },
+    {
+        "id": 11,
+        "titel": "Styling",
+        "preis": 12,
+        "dauer": 5
+    }
+]

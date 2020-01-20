@@ -1,0 +1,48 @@
+footer{
+    height: 120px;
+    background-color: #000000;
+    color: #ffffff;
+    padding: 20px;
+}
+
+.findUsAt{
+    float: left;
+}
+
+.findUsAtText{
+    font-weight: bold;
+    display: block;
+}
+
+.socialMedia{
+    height: 30px;
+    line-height: 30px;
+    display: block;
+    color: #ffffff;
+    margin-top: 15px;
+}
+
+.socialMedia:visited{
+    color: #ffffff;
+}
+
+.socialIconContainer{
+    display: inline-block;
+    height: 100%;
+}
+.socialIcon{
+    height: 100%;
+    margin-right: 5px;
+}
+
+.socialLink{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 3px;
+    line-height: normal;
+}
+
+
+.footerRightInfo{
+    float: right;
+}

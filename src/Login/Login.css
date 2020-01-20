@@ -1,0 +1,29 @@
+.loginForm{
+    margin-left: calc(50% - 150px);
+}
+
+.loginForm td:not(.errorMsg){
+    width: 150px;
+}
+
+.loginForm h1{
+    color: #BC9321;
+}
+
+.loginText {
+    color: white;
+}
+
+.button{
+    background: #BC9321;
+    border: #BC9321;
+    padding: 10px 20px 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: black;
+}
+
+.buttonLink{
+    text-decoration: none;
+    color: black;
+}

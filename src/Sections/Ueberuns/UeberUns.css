@@ -1,0 +1,33 @@
+.ueberUnsTextContainer{
+    width: 52.5%;
+    padding-left: 7.5%;
+    float: left;
+    margin-top: 13%;
+}
+
+.ueberUnsTextTitle{
+    font-size: 16px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.ueberUnsText{
+    color: #ffffff;
+    margin-top: 10px;
+}
+
+.ueberUnsImgContainer{
+    float: left;
+    width: 40%;
+}
+
+.ueberUnsImgContainer > img {
+    width: 60%;
+    float: right;
+    margin-right: 18.6%;
+}
+
+.clearAll{
+    clear: both;
+    line-height: 0;
+}

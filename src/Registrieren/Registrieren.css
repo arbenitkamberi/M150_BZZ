@@ -1,0 +1,16 @@
+.registerForm h1{
+    color: #BC9321;
+}
+
+.registerForm td:not(.errorMsg){
+    width: 150px;
+}
+
+.registerForm{
+    margin-left: calc(50% - 150px);
+}
+
+.errorMsg{
+    color: red;
+    font-weight: bold;
+}

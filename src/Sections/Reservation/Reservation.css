@@ -1,0 +1,47 @@
+.reservationContainer{
+    color: white;
+}
+
+.reservationInputsTable{
+    float: left;
+}
+
+.reservationServicesTable{
+    float: right;
+}
+
+.reservationService{
+    line-height: 16px;
+}
+
+.inputCheckbox{
+    margin: 0px 10px 0px 0px;
+}
+
+.errorMsg{
+    color: red;
+    height: 24px;
+}
+
+.okMsg{
+    color: green;
+    height: 24px;
+    font-weight: bold;
+}
+
+.reservationForm{
+    width: 70%;
+    padding-left: 15%;
+}
+
+.emptySpace{
+    line-height: 12px;
+}
+
+.submitContainer{
+    padding-top: 15px;
+}
+
+.clearFloat{
+    clear: both;
+}
